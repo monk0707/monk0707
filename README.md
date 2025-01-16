@@ -55,7 +55,7 @@
 ## Github Stats
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monk0707)](https://git.io/streak-stats)
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monk0707)](https://git.io/streak-stats)
 
 ## Virtual Experience
 
