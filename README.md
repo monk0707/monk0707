@@ -17,7 +17,7 @@
 <span>[<kbd> <br> LeetCode <br> </kbd>](https://leetcode.com/u/Arvind_Sharma/)</span>
 <span>[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@starkarvind1)</span>
 <span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
-<span>[<kbd> <br> Github Stats <br> </kbd>](##Github-Stats)</span>
+<span>[<kbd> <br> Github Stats <br> </kbd>](#Github-Stats)</span>
 <span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
 
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)</span>
