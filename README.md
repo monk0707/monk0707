@@ -52,7 +52,7 @@
 | [Reliance Foundation]([https://www.linkedin.com/company/finessefleet/](https://rfugscholar.reliancefoundation.org/profile?source=header)) | Mentor | Feb 2024 - Present |
 | Zenith - The programming club of MANIT | Core Member | Nov 2023 - Present |
 
-## Streak Stats
+## Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monk0707)](https://git.io/streak-stats)
 
 ## Virtual Experience
