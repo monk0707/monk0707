@@ -54,9 +54,7 @@
 | Zenith - The programming club of MANIT | Core Member | Nov 2023 - Present |
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=supersaint7780&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monk0707)](https://git.io/streak-stats)
 
 ## Virtual Experience
 
