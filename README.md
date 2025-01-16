@@ -20,8 +20,8 @@
 <span>[<kbd> <br> Github Stats <br> </kbd>](#Github-Stats)</span>
 <span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
 
-<span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-tools-and-technologies)</span>
-<span>[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)</span>
+<span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-tools-and-technologies-)</span>
+<span>[<kbd> <br> Quotes I Like <br> </kbd>](#-dev-quote)</span>
 
 ---
 
@@ -92,11 +92,5 @@
 | [JP Morgan Chase & Co.](https://drive.google.com/file/d/1ggF3asQsQmqfDBZvbqL71qzOQS4pvFAU/view?usp=drive_link) | Software Engineering |
 
 
-## Quotes I Like
-- "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
-- “The cure for boredom is curiosity. There is no cure for curiosity.” - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
-- "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
-- "Theory and practice sometimes clash. And when that happens, theory loses. Every single time." - ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
-- "Information flow is what the Internet is about. Information sharing is power. If you don't share your ideas, smart people can't do anything about them, and you'll remain anonymous and powerless." ([Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) - The Father of the Internet)
-- "I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today and the incredible advances that we have had. And I compare that to witchcraft and alchemy, where openness was something you didn't do." ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
-- "Don’t take criticism from someone you wouldn’t take advice from." ([Jim Kwik](https://en.wikipedia.org/wiki/Jim_Kwik) - Limitless)
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
