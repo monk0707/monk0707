@@ -17,8 +17,7 @@
 <span>[<kbd> <br> LeetCode <br> </kbd>](https://leetcode.com/u/Arvind_Sharma/)</span>
 <span>[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@starkarvind1)</span>
 <span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
-<span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
-<span>[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)</span>
+<span>[<kbd> <br> Github-stats <br> </kbd>](##Streak-Stats)</span>
 <span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
 
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)</span>
@@ -53,7 +52,7 @@
 | [Reliance Foundation]([https://www.linkedin.com/company/finessefleet/](https://rfugscholar.reliancefoundation.org/profile?source=header)) | Mentor | Feb 2024 - Present |
 | Zenith - The programming club of MANIT | Core Member | Nov 2023 - Present |
 
-## 🔥 Streak Stats
+## Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monk0707)](https://git.io/streak-stats)
 
 ## Virtual Experience
