@@ -21,7 +21,7 @@
 <span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
 
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-tools-and-technologies-)</span>
-<span>[<kbd> <br> Quotes I Like <br> </kbd>](#-dev-quote)</span>
+<span>[<kbd> <br> Quotes I Like <br> </kbd>](#%EF%B8%8F-dev-quote)</span>
 
 ---
 
