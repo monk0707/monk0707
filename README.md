@@ -20,7 +20,7 @@
 <span>[<kbd> <br> Github Stats <br> </kbd>](#Github-Stats)</span>
 <span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
 
-<span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)</span>
+<span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-tools-and-technologies)</span>
 <span>[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)</span>
 
 ---
@@ -51,6 +51,33 @@
 | [Alchemyst AI](https://getalchemystai.com/) | SDE Intern | Nov 2024 - Dec 2024 |
 | [Reliance Foundation]([https://www.linkedin.com/company/finessefleet/](https://rfugscholar.reliancefoundation.org/profile?source=header)) | Mentor | Feb 2024 - Present |
 | Zenith - The programming club of MANIT | Core Member | Nov 2023 - Present |
+
+## Languages Tools and Technologies 🚀 
+
+
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,svelte,vite" ></td>
+</tr>
+<tr>
+	<td><strong>Design & UI</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,blender,webflow,notion&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
+
+</table>
 
 ## Github Stats
 
