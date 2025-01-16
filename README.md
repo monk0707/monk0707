@@ -62,11 +62,11 @@
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,svelte,vite" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,vite" ></td>
 </tr>
 <tr>
 	<td><strong>Design & UI</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,blender,webflow,notion&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,notion&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
